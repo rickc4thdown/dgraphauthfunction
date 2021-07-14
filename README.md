@@ -1,0 +1,2 @@
+# dgraphauthfunction
+dgraph auth
